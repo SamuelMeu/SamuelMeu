@@ -1,3 +1,3 @@
 - 👋 Hi, I'm Samuel Meunier
-- 📫 Sam@flywer.xyz
 - 🧪 GitLab, Gitlab.com/sam594
+- 📫 Sam@flywer.xyz
